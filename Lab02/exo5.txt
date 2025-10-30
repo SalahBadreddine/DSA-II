@@ -1,0 +1,5 @@
+1/. The recursion terminates when either the array B has only one condidate or is empty.
+
+2/. We handle the odd size case by adding the last element in the new array by
+
+3/. The running time of the algorithm is: 

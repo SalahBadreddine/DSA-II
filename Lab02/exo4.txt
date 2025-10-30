@@ -1,0 +1,11 @@
+1/. All algorithms generate only legal permutations because they don't allow for replicates, which means that each algorith
+check if the random value that is going to be assigned to A[i] is already used, but each algorithm implements it
+in a different way ! 
+All the permuations are equally likely to be generated because all the algorithm use the method randInt, thus we can't 
+predict the next number
+
+2/. For the first program, the complexity is: O(n2 logn)
+For the second program, the complexity is: O(n logn)
+For the last program, the complexity is: O(n)
+
+3/. 
